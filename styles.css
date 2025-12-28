@@ -27,7 +27,7 @@ nav ul{list-style:none;
 nav a{color:#fff;text-decoration:none
 }
 .hero{height:70vh;
-    background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url('./Images/The\ village\ front\ pic.jpg');
+    background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),url('The village front pic.jpg');
     background-size:cover;background-position:center;
     display:flex;align-items:center;justify-content:center;
     color:#fff;text-align:center
@@ -101,7 +101,7 @@ nav{
     
 }
 .about_us{
-    background-image: url('./Images/front.jpg');
+    background-image: url('front.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
@@ -223,19 +223,19 @@ hr{
   background-position: center;
 }
 .wats{
-  background-image: url('./Images/q.jpg');
+  background-image: url('q.jpg');
 }
 .fbk{
-  background-image: url('./Images/fb.png');
+  background-image: url('fb.png');
 }
 .ins{
-  background-image: url('./Images/ind.jpg');
+  background-image: url('ind.jpg');
 }
 .email{
-  background-image: url('./Images/em.png');
+  background-image: url('em.png');
 }
 .tik-tok{
-  background-image: url('./Images/ti.png');
+  background-image: url('ti.png');
 }
 form{
   display: grid;
@@ -293,7 +293,7 @@ h2{
   text-align: center;
 }
 .event-top{
-  background-image: url('./Images/gala1.jpg');
+  background-image: url('gala1.jpg');
 }
 @media screen and(max-width:450px) {
   
@@ -306,7 +306,7 @@ body{
 }
 .v-logo{
   height: 35vh;
-  background-image: url('./Images/logo.png');
+  background-image: url('logo.png');
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
